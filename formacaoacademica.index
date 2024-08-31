@@ -3,12 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Formação Acadêmica </title>
+    <meta name="description" content="Página de Formação Acadêmica do site pessoal, com informações sobre cursos e diplomas adquiridos.">
+    <title>Formação Acadêmica</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <header>
-        <h1></h1>
+        <h1>Formação Acadêmica</h1>
         <nav>
             <ul>
                 <li><a href="index.html">Sobre Mim</a></li>
