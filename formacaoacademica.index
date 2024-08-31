@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formação Acadêmica - [Seu Nome]</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1></h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Sobre Mim</a></li>
+                <li><a href="formacaoacademica.html">Formação Acadêmica</a></li>
+                <li><a href="portifolio.html">Portfólio</a></li>
+                <li><a href="contato.html">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="formacao-academica">
+            <h2>Formação Acadêmica</h2>
+            <ul>
+                <li><strong>UNINTER</strong> - Curso de Análise e Desenvolvimento de Sistemas, Ano de Conclusão: 2026</li>
+                <li><strong>UNINTER</strong> - Curso de Inglês, Ano de Conclusão: 2024</li>
+                <li><strong>CAMPOS SALES</strong> - Ensino Médio, Ano de Conclusão: 2018</li>
+            </ul>
+        </section>
+    </main>
+
+</body>
+</html>
